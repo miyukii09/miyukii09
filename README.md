@@ -1,4 +1,4 @@
-# Olá, eu sou o yuki! 👨‍💻
+# Olá, eu sou o [Seu Nome]! 👨‍💻
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no último ano da faculdade. Tenho 19 anos e sou apaixonado por tecnologia. Estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades. 🚀
 
@@ -21,14 +21,17 @@ Estou pronto para aplicar o que aprendi e continuar evoluindo como desenvolvedor
 
 ### 📊 Estatísticas do meu GitHub:
 
-![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[SeuNome]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[miyukii09
+]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### 🔥 Linguagens que mais uso:
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[SeuNome]&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[miyukii09
+]&layout=compact&theme=radical)
 
 ### 📊 Contribuições no GitHub:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[SeuNome]&bg_color=ffffff&color=000000&line=4c8bf5&point=4c8bf5&area=true&area_color=4c8bf5)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[miyukii09
+]&bg_color=ffffff&color=000000&line=4c8bf5&point=4c8bf5&area=true&area_color=4c8bf5)
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [Seu LinkedIn](link)
