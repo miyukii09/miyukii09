@@ -1,32 +1,29 @@
-# Olá, sou o yuki 👋
+# Olá, eu sou o yuki! 👨‍💻
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou no último ano da faculdade. Tenho 19 anos e sou apaixonado por programação! 🚀
+Estudante de **Análise e Desenvolvimento de Sistemas** no último ano da faculdade. Tenho 19 anos e sou apaixonado por tecnologia. Estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades. 🚀
 
-### 🧑‍💻 Tecnologias que eu uso:
+### 🚀 Tecnologias que eu uso:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![GML](https://img.shields.io/badge/GML-9B59B6?style=for-the-badge&logo=game-maker&logoColor=white)
 
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end:** Node.js, Python, Java
-- **Outras linguagens:** GML (Game Maker Language)
-  
-### 🔍 O que estou buscando:
+### 🌱 Estou em busca de uma oportunidade de emprego!
+Estou pronto para aplicar o que aprendi e continuar evoluindo como desenvolvedor. Busco sempre entregar soluções criativas, com foco em qualidade e eficiência.
 
-Atualmente estou à procura de uma **oportunidade de emprego** como desenvolvedor. Estou aberto a desafios e novas experiências, com foco em aprender e crescer na área de tecnologia!
+### 👨‍💻 Sobre mim:
+- Sou **autista (grau 1)** e isso me traz uma maneira única de resolver problemas, com atenção aos detalhes e uma abordagem analítica.
+- Estou sempre buscando aprender, ser autodidata e melhorar minhas habilidades de programação.
 
-### 🌱 Um pouco sobre mim:
-
-- Tenho **autismo grau 1**, o que me proporciona uma maneira única de enxergar e resolver problemas. Valorizo muito a organização, foco e atenção aos detalhes, características que me ajudam a ser eficiente e dedicado no que faço.
-  
-### 💼 Projetos em destaque:
-
-- [Nome do Projeto 1](link_do_projeto): Descrição breve do projeto.
-- [Nome do Projeto 2](link_do_projeto): Descrição breve do projeto.
-- [Nome do Projeto 3](link_do_projeto): Descrição breve do projeto.
+### 📊 Contribuições no GitHub:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[SeuNome]&bg_color=ffffff&color=000000&line=4c8bf5&point=4c8bf5&area=true&area_color=4c8bf5)
 
 ### 📫 Como me encontrar:
-
 - **LinkedIn:** [Seu LinkedIn](link)
 - **E-mail:** [seuemail@dominio.com](mailto:seuemail@dominio.com)
 
-### 🚀 Vamos construir algo incrível juntos!
-
-Se você tem interesse em colaborar em projetos, discutir tecnologias ou até mesmo oferecer uma oportunidade de emprego, fico à disposição para conversar. Vamos fazer a diferença no mundo da tecnologia! 💻🌟
+Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!
