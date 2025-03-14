@@ -1,40 +1,82 @@
-# Olá, eu sou o [Seu Nome]! 👨‍💻
+# 👨‍💻 yuki
 
-Estudante de **Análise e Desenvolvimento de Sistemas** no último ano da faculdade. Tenho 19 anos e sou apaixonado por tecnologia. Estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades. 🚀
+**`Desenvolvedor FullStack`**
 
-### 🚀 Tecnologias que eu uso:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![GML](https://img.shields.io/badge/GML-9B59B6?style=for-the-badge&logo=game-maker&logoColor=white)
+Olá! Meu nome é yuki, tenho 19 anos e estou no último ano de **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por programação e adoro aprender novas tecnologias. Tenho experiência em **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Python**, **Java** e **GML**. Estou em busca de uma **oportunidade de emprego** para aplicar meus conhecimentos em um ambiente de trabalho dinâmico e desafiador.
 
-### 🌱 Estou em busca de uma oportunidade de emprego!
-Estou pronto para aplicar o que aprendi e continuar evoluindo como desenvolvedor. Busco sempre entregar soluções criativas, com foco em qualidade e eficiência.
+---
 
-### 👨‍💻 Sobre mim:
-- Sou **autista (grau 1)** e isso me traz uma maneira única de resolver problemas, com atenção aos detalhes e uma abordagem analítica.
-- Estou sempre buscando aprender, ser autodidata e melhorar minhas habilidades de programação.
+### 🔗 Redes Sociais
 
-### 📊 Estatísticas do meu GitHub:
+<p align="left">
+    <a href="https://www.linkedin.com/in/felipe-nishita-0b53242b7">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:felipegnishita45@gmail.com">
+        <img 
+            alt="Email" 
+            title="Envie-me um e-mail"
+            src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
 
-![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[miyukii09
-]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+---
 
-### 🔥 Linguagens que mais uso:
+### 🤖 Tecnologias e Ferramentas
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[miyukii09
-]&layout=compact&theme=radical)
+<p align="left">
+    <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="GML" title="GML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/game-maker/game-maker-original.svg" />
+</p>
 
-### 📊 Contribuições no GitHub:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[miyukii09
-]&bg_color=ffffff&color=000000&line=4c8bf5&point=4c8bf5&area=true&area_color=4c8bf5)
+---
 
-### 📫 Como me encontrar:
-- **LinkedIn:** [Seu LinkedIn](link)
-- **E-mail:** [seuemail@dominio.com](mailto:seuemail@dominio.com)
+### 📊 Estatísticas
 
-Estou sempre aberto a novas conexões e oportunidades. Vamos conversar!
+<p>
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=[SeuNome]&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        align="left" 
+        alt="GitHub Top Languages" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SeuNome]&theme=tokyonight&layout=compact&langs_count=8&custom_title=Tecnologias&langs_count=9" 
+    />
+</p>
+
+---
+
+### 💼 Projetos em Destaque
+
+- **[Estudo com Orientação a Objeto ](https://github.com/miyukii09/aula_OO)**: Breve descrição do projeto.
+- **[Estudo com Python](https://github.com/miyukii09/Aula_IA)**: Breve descrição do projeto.
+- **[Estudo de programação Multe Plataforma](https://github.com/miyukii09/Aula_PMP)**: Breve descrição do projeto.
+
+---
+
+### 📫 Como me encontrar
+
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/felipe-nishita-0b53242b7/)
+- **E-mail:** [seuemail@dominio.com](mailto:felipegnishita45@gmail.com)
+
+---
+
+### 🌱 O que estou aprendendo
+
+Atualmente, estou aprendendo mais sobre **desenvolvimento de aplicações em React**, **backend com Node.js** e explorando novas tecnologias como **TypeScript** e **Docker**.
