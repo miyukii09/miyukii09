@@ -19,6 +19,14 @@ Estou pronto para aplicar o que aprendi e continuar evoluindo como desenvolvedor
 - Sou **autista (grau 1)** e isso me traz uma maneira única de resolver problemas, com atenção aos detalhes e uma abordagem analítica.
 - Estou sempre buscando aprender, ser autodidata e melhorar minhas habilidades de programação.
 
+### 📊 Estatísticas do meu GitHub:
+
+![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[SeuNome]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### 🔥 Linguagens que mais uso:
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[SeuNome]&layout=compact&theme=radical)
+
 ### 📊 Contribuições no GitHub:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[SeuNome]&bg_color=ffffff&color=000000&line=4c8bf5&point=4c8bf5&area=true&area_color=4c8bf5)
 
