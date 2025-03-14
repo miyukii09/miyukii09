@@ -37,7 +37,6 @@ Olá! Meu nome é yuki, tenho 19 anos e estou no último ano de **Análise e Des
     <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img alt="GML" title="GML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/game-maker/game-maker-original.svg" />
 </p>
 
 ---
