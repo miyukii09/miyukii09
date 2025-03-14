@@ -62,9 +62,9 @@ Olá! Meu nome é yuki, tenho 19 anos e estou no último ano de **Análise e Des
 </p
 
 ---
-
+<br>
 ### 💼 Projetos em Destaque
-<p>
+
 - **[Estudo com Orientação a Objeto ](https://github.com/miyukii09/aula_OO)**: Breve descrição do projeto.
 - **[Estudo com Python](https://github.com/miyukii09/Aula_IA)**: Breve descrição do projeto.
 - **[Estudo de programação Multe Plataforma](https://github.com/miyukii09/Aula_PMP)**: Breve descrição do projeto.
@@ -76,5 +76,4 @@ Olá! Meu nome é yuki, tenho 19 anos e estou no último ano de **Análise e Des
 - **LinkedIn:** [Felipe Nishita](https://www.linkedin.com/in/felipe-nishita-0b53242b7/)
 - **E-mail:** [felipegnishita45@gmail.com](mailto:felipegnishita45@gmail.com)
 
-</p>
 ---
