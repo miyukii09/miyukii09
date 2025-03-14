@@ -74,11 +74,7 @@ Olá! Meu nome é yuki, tenho 19 anos e estou no último ano de **Análise e Des
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/felipe-nishita-0b53242b7/)
-- **E-mail:** [meu E-mail](mailto:felipegnishita45@gmail.com)
+- **LinkedIn:** [Felipe Nishita](https://www.linkedin.com/in/felipe-nishita-0b53242b7/)
+- **E-mail:** [felipegnishita45@gmail.com](mailto:felipegnishita45@gmail.com)
 
 ---
-
-### 🌱 O que estou aprendendo
-
-Atualmente, estou aprendendo mais sobre **desenvolvimento de aplicações em React**, **backend com Node.js** e explorando novas tecnologias como **TypeScript** e **Docker**.
