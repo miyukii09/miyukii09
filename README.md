@@ -41,7 +41,6 @@ Olá! Meu nome é yuki, tenho 19 anos e estou no último ano de **Análise e Des
 
 ---
 
-<br>
 ### 💼 Projetos em Destaque
 
 - **[Estudo com Orientação a Objeto ](https://github.com/miyukii09/aula_OO)**: Breve descrição do projeto.
